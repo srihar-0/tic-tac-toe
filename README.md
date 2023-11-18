@@ -1,4 +1,4 @@
-# tic-tac-toe
+# Tic-Tac-Toe game - An AI based Simulation
 A Tic-Tac-Toe game bulit using python
 
 This game has <br/> <br/>
