@@ -98,6 +98,8 @@ if __name__ == '__main__':
     o_player = RandomComputerPlayer('O')
     t = TicTacToe()
     play(t, x_player, o_player, print_game=True)
+    #FOR AI Simulation run and check if Smart Computer Player loses any match 
+    #Even if you increase the number of matches to One million Smart Computer Player(based on Min-Max Algorithm) nevers lose
     #for _ in range(1000):
     #     x_player = RandomComputerPlayer('X')
     #     o_player = SmartComputerPlayer('O')
