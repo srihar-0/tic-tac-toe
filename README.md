@@ -1,7 +1,7 @@
 # tic-tac-toe
 A Tic-Tac-Toe game bulit using python
 
-This game has <br/>
+This game has <br/> <br/>
 	--> **Single player mode** (Where Human Player can be up against Computer) <br/>
 	It has two modes <br/>
       		<li>-->Easy mode (90% of possibility Human Player can win) </li><br/>
